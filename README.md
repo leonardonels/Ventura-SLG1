@@ -24,3 +24,4 @@
 		Bluetooth 5.X devices
 		AirDrop
  		Secure Boot
+
