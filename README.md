@@ -1,4 +1,6 @@
 # Microsoft Surface Laptop Go Hardware
+![D09E3D7F-F58E-4740-A655-EA892D806229_1_201_a](https://user-images.githubusercontent.com/81677769/232604708-fa58a97c-e912-446c-8cca-060ff9e421c8.jpeg)
+
 
 	Specs:
 		CPU: Intel i5-1035G1 (Icelake)
