@@ -1,4 +1,4 @@
-#Microsoft Surface Laptop Go Hardware
+# Microsoft Surface Laptop Go Hardware
 
   Specs:
     CPU: Intel i5-1035G1 (Icelake)
