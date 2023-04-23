@@ -42,14 +42,13 @@
 			2023-04-22 23:53:27 +0200 Assertions          	Summary- [System: DeclUser kDisp] Using Batt(Charge: 84)          
 			2023-04-22 23:55:12 +0200 Assertions          	PID 149(WindowServer) TimedOut UserIsActive "com.apple.iohideventsystem.queue.tickle serviceID:10000044f service:AppleMultitouchDevice product:Magic Trackpad 2 eventType:11" 00:01:59  id:0x0x900008085 [System: DeclUser kDisp]          
 			2023-04-22 23:55:12 +0200 Assertions          	Summary- [System: No Assertions] Using Batt(Charge: 83)          
-			2023-04-22 23:59:41 +0200 Assertions          	PID 149(WindowServer) Created UserIsActive "com.apple.iohideventsystem.queue.tickle serviceID:100000280 ser![Screenshot 2023-04-23 alle 00 48 57](https://user-images.githubusercontent.com/81677769/233828849-868c6ad2-f3ae-46c2-ac3c-d6b8e685a117.png)
-vice:AppleACPILid product:(null) eventType:3" 00:00:00  id:0x0x9000082fc [System: DeclUser kDisp]          
+			2023-04-22 23:59:41 +0200 Assertions          	PID 149(WindowServer) Created UserIsActive "com.apple.iohideventsystem.queue.tickle serviceID:100000280 service:AppleACPILid product:(null) eventType:3" 00:00:00  id:0x0x9000082fc [System: DeclUser kDisp]          
 
 # Benchamrks:
--->Geekbench 6
+# -->Geekbench 6
 ![Screenshot 2023-04-23 alle 00 48 57](https://user-images.githubusercontent.com/81677769/233828925-5ab4d9f9-094d-4b26-b723-101fa15ce704.png)
 ![Screenshot 2023-04-23 alle 00 55 20](https://user-images.githubusercontent.com/81677769/233828867-58d5880b-e0f3-4780-a05b-a4097b39ab55.png)
 ![Screenshot 2023-04-23 alle 00 55 20](https://user-images.githubusercontent.com/81677769/233828880-69d24916-d923-4604-b3ce-c6fb31b81d62.png)
 ![Screenshot 2023-04-23 alle 00 59 41](https://user-images.githubusercontent.com/81677769/233828894-3c32b087-c062-4f25-8af4-f71119ca446b.png)
--->Passmark
+# -->Passmark
 ![Screenshot 2023-04-23 alle 01 03 56](https://user-images.githubusercontent.com/81677769/233828899-0b1f77b9-fcbc-4440-8099-34d9383c322d.png)
